@@ -28,8 +28,8 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>com.yunqueyi.Doctor</string>
+<!-- 				<key>bundle-identifier</key>
+				<string>com.yunqueyi.Doctor</string> -->
 				<key>bundle-version</key>
 				<string>2.8.2</string>
 				<key>kind</key>
